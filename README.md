@@ -1,6 +1,6 @@
 # Winget available automatically in WindowsSandbox
 If you're a [winget-pkgs](https://github.com/microsoft/winget-pkgs/) maintainer you know just how important testing your manifests is      
-This repo provides Windows Sandbox configuration and logon script if you want to manually test and verfiry any manifest/packages     
+This repo provides Windows Sandbox configuration and logon script if you want to manually test and verify any manifest/packages     
    
 ![Banner](/res/Banner.bmp)  
 
