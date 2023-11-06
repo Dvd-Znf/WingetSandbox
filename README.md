@@ -12,4 +12,4 @@ PS: cd Desktop
 PS: git clone   
 PS: WindowsSandbox WingetSandbox\WingetSanbox.wsb  
 ```
-    
+### The installation is now portable so you can move the repo anywhere, even outside of your pc (Ex. on a NAS)    
