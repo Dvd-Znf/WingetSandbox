@@ -4,7 +4,7 @@ This repo provides Windows Sandbox configuration and logon script if you want to
    
 ![Banner](/res/Banner.bmp)  
 
-## Why manualy verify like this when you can use an autotest script?
+## Why manually verify like this when you can use an autotest script?
 I made this repo because I needed to manually check some packages and while I like automation sometimes less is more.  
 ## How to use?
 ```
